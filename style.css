@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background-color: #212121;
+    color: white;
+    font-family: 'Open Sans', sans-serif;   
+}
+
+.header-top-sticky { 
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #424242;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 0;
+}
+
+.button-header {
+    padding-left: 75px;
+    padding-right: 75px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title {
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    /* text-decoration: underline; */
+}
+
+.intro-specials-font {
+    font-family: 'Dancing Script', cursive;
+}
+
+.intro-specials-deco {
+    text-decoration: underline;
+}
+
+.intro2 {
+    border: solid;
+    border-color: lime;
+}
+
+.color-c {
+    color: red;
+}
+
+.color-o {
+    color: orange;
+}
+.color-l {
+    color: yellow;
+}
+.color-o2 {
+    color: lime;
+}
+.color-r {
+    color: green;
+}
+.color-f {
+    color: darkgreen;
+}
+.color-u {
+    color: darkmagenta;
+}
+.color-l2 {
+    color: purple; 
+}
